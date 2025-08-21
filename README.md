@@ -184,6 +184,8 @@ We **love** pull requests:
 
 📖 See our [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
+💬 Join Our Discord Community: 👉 https://discord.gg/DkpSA58NmA
+
 ---
 
 ## 📢 Spread the Word
