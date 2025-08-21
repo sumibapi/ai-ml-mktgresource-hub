@@ -8,9 +8,9 @@
 
 ![Cover-8.png](img/Cover-8.png)
 
-[Forks Badge](https://img.shields.io/github/forks/genai-works-org/awesome-ai-ds?style=social)
+![Forks Badge](https://img.shields.io/github/forks/genai-works-org/awesome-ai-ds?style=social)
 
-[Stars Badge](https://img.shields.io/github/stars/genai-works-org/awesome-ai-ds?style=social)
+![Stars Badge](https://img.shields.io/github/stars/genai-works-org/awesome-ai-ds?style=social)
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)
 
