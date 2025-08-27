@@ -159,20 +159,9 @@ This repo is your **personal cheat code**: 100+ handpicked and curated resources
 10. [Google AI Research](https://ai.google/research/)
 
 ---
-
-## 🏆 Contributor Hall of Fame
-
-Want eternal glory? 🌟 Contribute something awesome, and your name will be here.
-
-| Avatar | Name | Contribution |
-| --- | --- | --- |
-| 🧑‍💻 | **You** | Your PR here! |
-
----
-
 ## 🤝 How to Join the Club
 
-We **love** pull requests:
+**love** pull requests:
 
 1. **Fork** this repo
 
